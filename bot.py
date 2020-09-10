@@ -27,7 +27,7 @@ def send_mem(update, context):
 
 def main():
 
-    updater = Updater("965990520:AAEme0jNGO_Ing2QIo8IGeU-GjDmsilcLh8", use_context=True)
+    updater = Updater("", use_context=True)
 
     dp = updater.dispatcher
 
